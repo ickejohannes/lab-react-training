@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.Id-card {
+  display: flex;
+  border-style: solid;
+  padding: 5px;
+  margin: 5px;
+}
+
+.Id-card-paragraph {
+  margin: 5px;
+  text-align: left;
+}
