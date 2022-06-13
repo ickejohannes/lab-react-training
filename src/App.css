@@ -48,3 +48,10 @@
   margin: 5px;
   text-align: left;
 }
+
+.Greetings {
+  margin: 5px;
+  text-align: left;
+  border-style: solid;
+  padding: 5px;
+}
